@@ -36,12 +36,4 @@ I build robust tools ranging from **POSIX shells** to **process supervisors** an
 ## 🌍 Languages
 
 - **French:** native  
-- **English:** technical/conversational  
-
----
-
-## 📊 42 Profile
-
-<p align="center">
-  <img src="https://badge.mediaplus.ma/darkblue/nbardavi?1337Badge=off&UM6P=off" alt="42 stats">
-</p>
+- **English:** technical/conversational
